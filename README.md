@@ -23,5 +23,3 @@ Telnet sunucusu 60000 portunda dinliyor…
 bu yazıyı gördükten sonra yeni bir terminal penceresi açıyoruz ve aşağıdakini yazıyoruz
 
 telnet 127.0.0.1 60000
-
-bazı şeyler çalışıyor mu denemesi
