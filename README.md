@@ -20,6 +20,8 @@ elifbaser@Elif-MacBook-Air-2 c_odev % gcc -o telnet_server main.c levenshtein.c 
 elifbaser@Elif-MacBook-Air-2 c_odev % ./telnet_server
 Telnet sunucusu 60000 portunda dinliyor…
 
-bu yazıyı gördükten sonra yeni bir terminal penceresi açıyoruz ve aşağıdakini yazıyoruz 
+bu yazıyı gördükten sonra yeni bir terminal penceresi açıyoruz ve aşağıdakini yazıyoruz
 
 telnet 127.0.0.1 60000
+
+bazı şeyler çalışıyor mu denemesi
